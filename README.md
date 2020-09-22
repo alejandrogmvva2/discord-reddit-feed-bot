@@ -12,6 +12,7 @@
     - [Error: Forbidden](#error-forbidden)
 
 ### Installation
+[![Run on Repl.it](https://repl.it/badge/github/zikeji/discord-reddit-feed-bot)](https://repl.it/github/zikeji/discord-reddit-feed-bot)
 
  - `git clone https://github.com/zikeji/discord-reddit-feed-bot`
  - `cd discord-reddit-feed-bot`
